@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitArray", "BitArray\BitArray.csproj", "{87083956-E619-4BAE-83AC-E0E1BCA9CD3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87083956-E619-4BAE-83AC-E0E1BCA9CD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87083956-E619-4BAE-83AC-E0E1BCA9CD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87083956-E619-4BAE-83AC-E0E1BCA9CD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87083956-E619-4BAE-83AC-E0E1BCA9CD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BEB996-AF6B-4FC7-9B4D-B78DB26F1042}
+	EndGlobalSection
+EndGlobal
